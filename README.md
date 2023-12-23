@@ -23,3 +23,5 @@ This *intermediate* level data set provides health examination data among 303 pa
      #14            |   num              |  angiographic disease status (0: no heart disease, > 0: heart disease)                               | categorical
 
 ---
+
+link: https://github.com/unicornizme2911/heart-disease
